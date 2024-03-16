@@ -1,0 +1,79 @@
+ManifestFileVersion: 0
+CRC: 553722231
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 6e16bd6507a03fbadd863056c9a3f002
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 676a9a58d08919ce41835839c8ad735c
+  IncrementalBuildHash:
+    serializedVersion: 2
+    Hash: 6e16bd6507a03fbadd863056c9a3f002
+HashAppended: 0
+ClassTypes:
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 114
+  Script: {fileID: 13312, guid: 0000000000000000e000000000000000, type: 0}
+- Class: 115
+  Script: {instanceID: 0}
+- Class: 213
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
+Assets:
+- Assets/Resources/Bnav/Board/Textures/buoy_20.asset
+- Assets/Resources/Bnav/Board/Textures/buoy_1.asset
+- Assets/Resources/Bnav/Board/Textures/buoy_17.asset
+- Assets/Resources/Bnav/Board/Textures/rocks_small_2.asset
+- Assets/Resources/Bnav/Board/Textures/cell_3.asset
+- Assets/Resources/Bnav/Board/Textures/buoy_23.asset
+- Assets/Resources/Bnav/Board/Textures/buoy_0.asset
+- Assets/Resources/Bnav/Board/Textures/buoy_22.asset
+- Assets/Resources/Bnav/Board/Textures/whirl_1.asset
+- Assets/Resources/Bnav/Board/Textures/buoy_6.asset
+- Assets/Resources/Bnav/Board/Textures/rocks_small_3.asset
+- Assets/Resources/Bnav/Board/Textures/buoy_5.asset
+- Assets/Resources/Bnav/Board/Textures/buoy_9.asset
+- Assets/Resources/Bnav/Board/Textures/rocks_big_2.asset
+- Assets/Resources/Bnav/Board/Textures/whirl_0.asset
+- Assets/Resources/Bnav/Board/Textures/safezone_3.asset
+- Assets/Resources/Bnav/Board/Textures/wind_0.asset
+- Assets/Resources/Bnav/Board/Textures/whirl_4.asset
+- Assets/Resources/Bnav/Board/Textures/buoy_11.asset
+- Assets/Resources/Bnav/Board/Textures/whirl_7.asset
+- Assets/Resources/Bnav/Board/Textures/rocks_big_1.asset
+- Assets/Resources/Bnav/Board/Textures/rocks_small_1.asset
+- Assets/Resources/Bnav/Board/Textures/cell_2.asset
+- Assets/Resources/Bnav/Board/Textures/buoy_8.asset
+- Assets/Resources/Bnav/Board/Textures/buoy_21.asset
+- Assets/Resources/Bnav/Board/Textures/whirl_3.asset
+- Assets/Resources/Bnav/Board/Textures/safezone_0.asset
+- Assets/Resources/Bnav/Board/Textures/whirl_2.asset
+- Assets/Resources/Bnav/Board/Textures/wind_2.asset
+- Assets/Resources/Bnav/Board/Textures/buoy_19.asset
+- Assets/Resources/Bnav/Board/Textures/buoy_7.asset
+- Assets/Resources/Bnav/Board/Textures/cell_0.asset
+- Assets/Resources/Bnav/Board/Textures/buoy_16.asset
+- Assets/Resources/Bnav/Board/Textures/wind_3.asset
+- Assets/Resources/Bnav/Board/Textures/cell_1.asset
+- Assets/Resources/Bnav/Board/Textures/wind_1.asset
+- Assets/Resources/Bnav/Board/Textures/safezone_2.asset
+- Assets/Resources/Bnav/Board/Textures/whirl_6.asset
+- Assets/Resources/Bnav/Board/Textures/safezone_1.asset
+- Assets/Resources/Bnav/Board/Textures/buoy_2.asset
+- Assets/Resources/Bnav/Board/Textures/safezone_4.asset
+- Assets/Resources/Bnav/Board/Textures/buoy_12.asset
+- Assets/Resources/Bnav/Board/Textures/rocks_small_0.asset
+- Assets/Resources/Bnav/Board/Textures/buoy_14.asset
+- Assets/Resources/Bnav/Board/Textures/rocks_big_3.asset
+- Assets/Resources/Bnav/Board/Textures/buoy_13.asset
+- Assets/Resources/Bnav/Board/Textures/whirl_5.asset
+- Assets/Resources/Bnav/Board/Textures/buoy_10.asset
+- Assets/Resources/Bnav/Board/Textures/buoy_3.asset
+- Assets/Resources/Bnav/Board/Textures/buoy_15.asset
+- Assets/Resources/Bnav/Board/Textures/buoy_18.asset
+- Assets/Resources/Bnav/Board/Textures/buoy_4.asset
+- Assets/Resources/Bnav/Board/Textures/cell_4.asset
+- Assets/Resources/Bnav/Board/Textures/rocks_big_0.asset
+Dependencies: []

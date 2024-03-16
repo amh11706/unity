@@ -1,0 +1,7 @@
+ManifestFileVersion: 0
+CRC: 1628173052
+AssetBundleManifest:
+  AssetBundleInfos:
+    Info_0:
+      Name: bnavboard
+      Dependencies: {}

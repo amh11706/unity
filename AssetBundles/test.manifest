@@ -1,0 +1,36 @@
+ManifestFileVersion: 0
+CRC: 2949687930
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 2121d722e11211c532057110d89358ca
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 676a9a58d08919ce41835839c8ad735c
+  IncrementalBuildHash:
+    serializedVersion: 2
+    Hash: 2121d722e11211c532057110d89358ca
+HashAppended: 0
+ClassTypes:
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 114
+  Script: {fileID: 13312, guid: 0000000000000000e000000000000000, type: 0}
+- Class: 115
+  Script: {instanceID: 0}
+- Class: 213
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
+Assets:
+- Assets/Resources/cell_3.asset
+- Assets/Resources/cell_0.asset
+- Assets/Resources/cell_1.asset
+- Assets/Resources/safezone_1.asset
+- Assets/Resources/safezone_2.asset
+- Assets/Resources/safezone_4.asset
+- Assets/Resources/safezone_3.asset
+- Assets/Resources/cell.png
+- Assets/Resources/cell_2.asset
+- Assets/Resources/cell_4.asset
+- Assets/Resources/safezone_0.asset
+Dependencies: []

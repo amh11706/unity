@@ -1,0 +1,16 @@
+{
+    "name": "CameraControls",
+    "rootNamespace": "",
+    "references": [
+        "GUID:c235372b81d238e4a8d3d931a76627fd"
+    ],
+    "includePlatforms": [],
+    "excludePlatforms": [],
+    "allowUnsafeCode": false,
+    "overrideReferences": false,
+    "precompiledReferences": [],
+    "autoReferenced": true,
+    "defineConstraints": [],
+    "versionDefines": [],
+    "noEngineReferences": false
+}
